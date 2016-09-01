@@ -1,2 +1,5 @@
 # notes
-crispy-enigma
+
+## cloud
+  ### azure
+    quickstarts: https://github.com/Azure/azure-quickstart-templates
