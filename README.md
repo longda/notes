@@ -1,5 +1,6 @@
 # notes
 
 ## cloud
-  ### azure
+  
+### azure
     quickstarts: https://github.com/Azure/azure-quickstart-templates
