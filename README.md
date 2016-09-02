@@ -7,6 +7,8 @@
   [http://techblog.netflix.com/](http://techblog.netflix.com/)
   
   [https://netflix.github.io/](https://netflix.github.io/)
+  
+  [https://slack.engineering/@SlackEng](https://slack.engineering/@SlackEng)
 
 ## cloud
   
