@@ -1,9 +1,11 @@
-# notes
 
 ## blogs + code
   [https://code.facebook.com/](https://code.facebook.com/)
+  
   [https://code.facebook.com/projects/](https://code.facebook.com/projects/)
+  
   [http://techblog.netflix.com/](http://techblog.netflix.com/)
+  
   [https://netflix.github.io/](https://netflix.github.io/)
 
 ## cloud
