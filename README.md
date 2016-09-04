@@ -10,20 +10,32 @@
   
   [https://slack.engineering/@SlackEng](https://slack.engineering/@SlackEng)
 
-## cloud
   
-### azure
+## azure
   [quickstarts](https://github.com/Azure/azure-quickstart-templates)
   
-### aws
+## aws
   [architecture](https://aws.amazon.com/architecture/)
   
-### markdown
-  [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+## email
+  
+## fonts
+
+## logging
+  [logly](https://www.loggly.com/)
+  [splunk](http://www.splunk.com/)
+  
+## markdown
+  [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  
+## monitoring
+  [raygun](https://raygun.com/)
 
 ## node
   [hapi](http://hapijs.com/)
 
 ## web
+  [ember](http://emberjs.com/)
+  
   [swagger](http://swagger.io/)
 
