@@ -1,3 +1,6 @@
+## awesome
+  [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
 
 ## blogs + code
   [https://code.facebook.com/](https://code.facebook.com/)
