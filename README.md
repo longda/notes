@@ -1,3 +1,5 @@
+<img src="http://i.giphy.com/psKReJOWm4cfK.gif" alt="notes" />
+
 ## awesome
   [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
