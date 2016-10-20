@@ -7,6 +7,10 @@
   [Interview University](https://github.com/jwasham/google-interview-university)
   
   [Machine Learning Study Guide](https://github.com/ZuzooVn/machine-learning-for-software-engineers) 
+  
+## unity3d + gamedev
+  [ ] [vr in unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development)
+
 
 ## blogs + code
   [https://code.facebook.com/](https://code.facebook.com/)
