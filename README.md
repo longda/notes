@@ -9,7 +9,7 @@
   [Machine Learning Study Guide](https://github.com/ZuzooVn/machine-learning-for-software-engineers) 
   
 ## unity3d + gamedev
-  [ ] [vr in unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development)
+  - [ ] [vr in unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development)
 
 
 ## blogs + code
