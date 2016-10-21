@@ -8,6 +8,8 @@
   
   [Machine Learning Study Guide](https://github.com/ZuzooVn/machine-learning-for-software-engineers) 
   
+  [Big O Cheat Sheet](http://bigocheatsheet.com/)
+  
 ## unity3d + gamedev
   - [ ] [vr in unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development)
 
