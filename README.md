@@ -3,12 +3,14 @@
 ## awesome
   [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
+
 ## cs + study guides
   [Interview University](https://github.com/jwasham/google-interview-university)
   
   [Machine Learning Study Guide](https://github.com/ZuzooVn/machine-learning-for-software-engineers) 
   
   [Big O Cheat Sheet](http://bigocheatsheet.com/)
+  
   
 ## unity3d + gamedev
   - [ ] [vr in unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development)
@@ -25,6 +27,8 @@
   
   [https://slack.engineering/@SlackEng](https://slack.engineering/@SlackEng)
 
+## react
+  [Creat React App](https://github.com/facebookincubator/create-react-app)
   
 ## azure
   [quickstarts](https://github.com/Azure/azure-quickstart-templates)
@@ -39,6 +43,7 @@
 
 ## logging
   [logly](https://www.loggly.com/)
+  
   [splunk](http://www.splunk.com/)
   
 ## markdown
