@@ -32,6 +32,7 @@
   Clouds
   
   Game Demo
+  
     + Ground
     + Player - can move behind trees
     + Forest
@@ -67,10 +68,10 @@ pos = vec2( sin(time), cos(time) );
 rot = sin(time) * wiggle;
 wiggle *= 0.95;
 
-//Sprite stretching: 
-scale = vec2( x, y );
-x = lerp( x, 1, 0.1 );
-y = lerp( y, 1, 0.1 );
+//sprite stretching: 
+scale = vec2(x, y);
+x = lerp(x, 1, 0.1);
+y = lerp(y, 1, 0.1);
 ```
 
 
