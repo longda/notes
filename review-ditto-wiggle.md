@@ -16,9 +16,11 @@
 
 ### Wiggle
   Draw the same frame 4 times.  e.g. draw a tree four times.
+  
+  <img src="https://cdn.rawgit.com/longda/notes/master/img/ditto-wiggle-tree.png" alt="wiggle tree" />
 
 
-### ding Graphics
+### ...ding Graphics
 
 
 ### Scripting Cheats
