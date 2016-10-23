@@ -22,14 +22,14 @@
   
   <img src="https://cdn.rawgit.com/longda/notes/master/img/ditto-wiggle-tree.png" alt="wiggle tree" />
   
-  Trees
-  Players
-  Squares/Obstacles
-  Platforms
-  Grass
-  Vegatation
-  Items
-  Clouds
+  + Trees
+  + Players
+  + Squares/Obstacles
+  + Platforms
+  + Grass
+  + Vegatation
+  + Items
+  + Clouds
   
   Game Demo
   
