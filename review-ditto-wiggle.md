@@ -7,11 +7,11 @@
 [![video of talk](http://img.youtube.com/vi/7-fUvFkPngI/0.jpg)](http://www.youtube.com/watch?v=7-fUvFkPngI)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7-fUvFkPngI" frameborder="0" allowfullscreen></iframe>
 
-[Make it wiggle](https://ditto.itch.io/makeitwiggle)
-[Ditto @ www](http://www.matthiasdittrich.com/)
-[Ditto @ Twitter](https://twitter.com/dittomat)
-[Ditto @ itch.io](https://ditto.itch.io/)
-[Ditto @ Cartridge](https://cartrdge.com/ditto)
+    + [Make it wiggle](https://ditto.itch.io/makeitwiggle)
+    + [Ditto @ www](http://www.matthiasdittrich.com/)
+    + [Ditto @ Twitter](https://twitter.com/dittomat)
+    + [Ditto @ itch.io](https://ditto.itch.io/)
+    + [Ditto @ Cartridge](https://cartrdge.com/ditto)
 
 
 ### Consistency
