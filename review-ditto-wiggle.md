@@ -1,4 +1,4 @@
- <img src="https://cdn.rawgit.com/longda/notes/master/img/wiggle-wobble.gif" alt="wiggle tree" />
+ <img src="https://cdn.rawgit.com/longda/notes/master/img/wiggle-wobble.gif" alt="wiggle wobble" />
 
 ## Review: Mattias Dittrich (Ditto) - Make It Wiggle (or How to Make Cool Art with No Talent)
 
