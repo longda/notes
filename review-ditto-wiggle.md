@@ -1,3 +1,5 @@
+ <img src="https://cdn.rawgit.com/longda/notes/master/img/wiggle-wobble.gif" alt="wiggle tree" />
+
 ## Review: Mattias Dittrich (Ditto) - Make It Wiggle (or How to Make Cool Art with No Talent)
 
 [Link to talk](https://www.youtube.com/watch?v=7-fUvFkPngI)
@@ -22,14 +24,14 @@
   
   <img src="https://cdn.rawgit.com/longda/notes/master/img/ditto-wiggle-tree.png" alt="wiggle tree" />
   
-  + Trees
-  + Players
-  + Squares/Obstacles
-  + Platforms
-  + Grass
-  + Vegatation
-  + Items
-  + Clouds
+    + Trees
+    + Players
+    + Squares/Obstacles
+    + Platforms
+    + Grass
+    + Vegatation
+    + Items
+    + Clouds
   
   Game Demo
   
@@ -49,16 +51,12 @@
     + Code Cheat: animate star movement: pos = Vector2(Sin(deltaTime), Cosine(deltaTime)) [11:50](https://youtu.be/7-fUvFkPngI?t=11m50s)
     + Wobble! e.g. trees, grass: tree.rot (angle) * sin(deltaTime) * wiggle (each time walk into tree, wiggle is set to random number above) - goes back and forth with the sine wave. [slide 12/22]
     + Sprite stretch: when turning around, jumping: scale is 1,1 (normal) use lerp when jump, set x < 1, when land x > 1, then go back to normal.  [slide 14/22]
-    + Outlines: [slide 16/22]
+    + Outlines: technique: drawing the same sprite, different color, at an offset 8 times (n, s, e, w, ne, se, sw, nw) [slide 16/22]
+    + Camera shake [slie 20/22]
+    + 
     
 
-### ...ding Graphics
-
-
-### Scripting Cheats
-
-
-### Code
+### Code for Scripting Cheats
 
 ```javascript
 //moving stars:
