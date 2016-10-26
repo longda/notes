@@ -14,7 +14,8 @@
   
 ## unity3d + gamedev
   - [ ] [vr in unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development)
-  - [ ]  [vr in daydream](https://developers.google.com/vr/unity/get-started-controller)
+  - [ ] [vr in daydream](https://developers.google.com/vr/unity/get-started-controller)
+  - [ ] [deployments with fastlane](https://fastlane.tools)
 
 
 ## blogs + code
