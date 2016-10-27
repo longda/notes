@@ -16,6 +16,9 @@
   - [ ] [vr in unity](https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development)
   - [ ] [vr in daydream](https://developers.google.com/vr/unity/get-started-controller)
   - [ ] [deployments with fastlane](https://fastlane.tools)
+  
+## data science
+  - [ ] [Teaching Twitch to Predict the Future](https://blog.twitch.tv/why-im-teaching-twitch-to-predict-the-future-baeeafaf45f9#.hp98rqirq)
 
 
 ## blogs + code
