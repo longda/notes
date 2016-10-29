@@ -17,6 +17,7 @@
   - [ ] [vr in daydream](https://developers.google.com/vr/unity/get-started-controller)
   - [ ] [deployments with fastlane](https://fastlane.tools)
   - [ ] [procedurally generated farm scenes](http://graphics.cs.williams.edu/courses/cs371/f16/gallery/4-midterm/terrain/report.md.html)
+  - [x] [vs code as unity editor](https://code.visualstudio.com/Docs/runtimes/unity)
   
 ## data science
   - [ ] [Teaching Twitch to Predict the Future](https://blog.twitch.tv/why-im-teaching-twitch-to-predict-the-future-baeeafaf45f9#.hp98rqirq)
